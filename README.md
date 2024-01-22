@@ -1,2 +1,2 @@
 # firstRepo
-test
+test of git
